@@ -55,4 +55,53 @@ Se você estiver usando um ambiente que suporta imagens em Markdown (como GitHub
 * Os logos em imagem são de um repositório confiável: [Devicon](https://github.com/devicons/devicon).
 * XML e Assembly não possuem logos "oficiais", então foram usados ícones simbólicos.
 * Para QBasic, não há logo amplamente usado; o emoji de disquete representa a ideia de software antigo/salvamento.
+---
+Claro! Aqui está a versão da **tabela com logos menores**, ideal para uso em Markdown com renderização de imagens (por exemplo, em GitHub README). Usei o atributo de tamanho diretamente em HTML dentro do Markdown para redimensionar os logos.
+
+> ⚠️ O Markdown padrão **não permite redimensionar imagens**, mas ao incorporar **HTML dentro do Markdown**, é possível definir o tamanho.
+
+---
+
+### 🖼️ Tabela com Logos Menores (usando HTML dentro do Markdown)
+
+```markdown
+| Linguagem   | Logo | Nome           |
+|-------------|------|----------------|
+| Assembler   | 🛠️   | Assembly       |
+| QBasic      | 💾   | QBasic         |
+| C           | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24"/> | C              |
+| C++         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24"/> | C++            |
+| JavaScript  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24"/> | JavaScript     |
+| Java        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="24"/> | Java           |
+| HTML        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24"/> | HTML           |
+| PHP         | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="24"/> | PHP            |
+| XML         | 🧾   | XML            |
+| MySQL       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24"/> | MySQL          |
+| SQLite      | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="24"/> | SQLite         |
+| Python      | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24"/> | Python         |
+```
+
+---
+
+### 📎 Resultado visual (exemplo renderizado)
+
+| Linguagem  | Logo                                                                                                                       | Nome       |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Assembler  | 🛠️                                                                                                                        | Assembly   |
+| QBasic     | 💾                                                                                                                         | QBasic     |
+| C          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24"/>                   | C          |
+| C++        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24"/>   | C++        |
+| JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24"/> | JavaScript |
+| Java       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="24"/>             | Java       |
+| HTML       | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24"/>           | HTML       |
+| PHP        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="24"/>               | PHP        |
+| XML        | 🧾                                                                                                                         | XML        |
+| MySQL      | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24"/>           | MySQL      |
+| SQLite     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="24"/>         | SQLite     |
+| Python     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24"/>         | Python     |
+
+---
+
+
+
 
