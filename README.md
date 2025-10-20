@@ -110,6 +110,53 @@ Claro! Aqui está a versão da **tabela com logos menores**, ideal para uso em M
 ![OpenSimulator Logo](https://upload.wikimedia.org/wikipedia/commons/2/24/Opensimulator_logo200x160.png)
 ---
 [OpenSim Logo (PNG/Vector disponível na página oficial)](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53114527/OpenSim+and+NCSRR+Logos)
+---
+Perfeito ✅ Aqui está um **bloco Markdown completo** com logótipos oficiais (ou os mais próximos disponíveis) de **Second Life**, **OpenSimulator**, e **OpenSim (biomecânica)** — todos com links diretos para ficheiros PNG ou SVG.
+
+---
+
+```markdown
+# Logótipos de Plataformas Virtuais e de Simulação
+
+## 🌀 Second Life
+[![Second Life Logo](https://upload.wikimedia.org/wikipedia/commons/1/11/Second_Life_Logo.svg)](https://secondlife.com)
+
+- **SVG direto:** [https://upload.wikimedia.org/wikipedia/commons/1/11/Second_Life_Logo.svg](https://upload.wikimedia.org/wikipedia/commons/1/11/Second_Life_Logo.svg)
+- **Fonte:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Second_Life_Logo.svg)
+- **Site oficial:** [https://secondlife.com](https://secondlife.com)
+
+---
+
+## 🌐 OpenSimulator (OpenSim - mundo virtual)
+[![OpenSimulator Logo](https://upload.wikimedia.org/wikipedia/commons/5/50/Opensimulator_logo200x160.png)](https://opensimulator.org)
+
+- **PNG direto:** [https://upload.wikimedia.org/wikipedia/commons/5/50/Opensimulator_logo200x160.png](https://upload.wikimedia.org/wikipedia/commons/5/50/Opensimulator_logo200x160.png)
+- **Fonte:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Opensimulator_logo200x160.png)
+- **Site oficial:** [https://opensimulator.org](https://opensimulator.org)
+
+---
+
+## 🧠 OpenSim (Simulação Biomecânica - Stanford)
+[![OpenSim Project Logo](https://web.stanford.edu/group/opensim/images/ui/logo_opensim.png)](https://simtk.org/projects/opensim)
+
+- **PNG direto:** [https://web.stanford.edu/group/opensim/images/ui/logo_opensim.png](https://web.stanford.edu/group/opensim/images/ui/logo_opensim.png)
+- **Fonte:** [Stanford OpenSim Project](https://simtk.org/projects/opensim)
+- **Página de logótipos oficiais:** [https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53114527/OpenSim+and+NCSRR+Logos](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53114527/OpenSim+and+NCSRR+Logos)
+
+---
+
+## 💾 Código Máquina
+*(“Código máquina” não é uma marca ou projeto com logótipo oficial — é um conceito técnico universal.)*  
+Para referência visual genérica:  
+![Binary Code Example](https://upload.wikimedia.org/wikipedia/commons/4/48/Computer_binary_code.svg)
+
+- **SVG direto:** [https://upload.wikimedia.org/wikipedia/commons/4/48/Computer_binary_code.svg](https://upload.wikimedia.org/wikipedia/commons/4/48/Computer_binary_code.svg)
+- **Fonte:** [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Computer_binary_code.svg)
+```
+
+---
+
+
 
 
 
