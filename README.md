@@ -101,6 +101,14 @@ Claro! Aqui está a versão da **tabela com logos menores**, ideal para uso em M
 | Python     | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24"/>         | Python     |
 
 ---
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Opensimulator_logo200x160.png" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Second_Life_Logo.svg" width="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136526.png" width="60"/>
+  <img src="https://static.thenounproject.com/png/1706949-512.png" width="60"/>
+</p>
+
+---
 ![Machine Code Icon](https://static.thenounproject.com/png/machine-code-icon-1706949-512.png)
 ---
 ![XML Logo Icon](https://hexmos.com/freedevtools/png_icons/xml/xml-plain/png_512px/xml-plain_png_512px.png)
