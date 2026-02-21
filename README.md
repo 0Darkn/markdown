@@ -151,6 +151,58 @@ Perfeito ✅ Aqui está um **bloco Markdown completo** com logótipos oficiais (
 - **Página de logótipos oficiais:** [https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53114527/OpenSim+and+NCSRR+Logos](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53114527/OpenSim+and+NCSRR+Logos)
 
 ---
+Para **exibir uma imagem em Markdown**, usa esta sintaxe básica:
+
+```markdown
+![Texto alternativo](URL_da_imagem)
+```
+
+### 📌 Exemplo real:
+
+```markdown
+![Logo do Markdown](https://markdown-here.com/img/icon256.png)
+```
+
+---
+
+## 🔎 Explicação
+
+* `![Texto alternativo]` → descrição da imagem (importante para acessibilidade)
+* `(URL_da_imagem)` → link direto da imagem (`.jpg`, `.png`, `.webp`, etc.)
+
+---
+
+## 📂 Imagem local (mesma pasta do ficheiro)
+
+```markdown
+![Minha imagem](imagem.png)
+```
+
+Ou numa subpasta:
+
+```markdown
+![Minha imagem](imagens/foto.jpg)
+```
+
+---
+
+## 🎯 Imagem com link clicável
+
+```markdown
+[![Texto](imagem.png)](https://exemplo.com)
+```
+
+---
+
+## 📏 Redimensionar imagem (HTML dentro do Markdown)
+
+Markdown puro **não redimensiona**, mas podes usar HTML:
+
+```html
+<img src="imagem.png" width="300">
+```
+
+---
 
 ## 💾 Código Máquina
 *(“Código máquina” não é uma marca ou projeto com logótipo oficial — é um conceito técnico universal.)*  
